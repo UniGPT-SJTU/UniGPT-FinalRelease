@@ -1,0 +1,12 @@
+[submodule "nginx"]
+	path = nginx
+	url = ./nginx
+[submodule "UniGPT-backend"]
+	path = UniGPT-backend
+	url = ../UniGPT-backend
+[submodule "UniGPT-backend-microservice"]
+	path = UniGPT-backend-microservice
+	url = ../UniGPT-backend-microservice/
+[submodule "UniGPT-frontend"]
+	path = UniGPT-frontend
+	url = ../UniGPT-frontend
