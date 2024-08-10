@@ -10,3 +10,6 @@
 [submodule "UniGPT-frontend"]
 	path = UniGPT-frontend
 	url = ../UniGPT-frontend
+[submodule "UniGPT-k8sfile"]
+	path = UniGPT-k8sfile
+	url = git@codehub.devcloud.cn-east-3.huaweicloud.com:212eb26731c24f27bfdaec8184cb2a08/UniGPT-k8s-files.git
